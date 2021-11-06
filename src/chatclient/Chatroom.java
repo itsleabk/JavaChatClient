@@ -84,7 +84,7 @@ public class Chatroom extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void background() {
-        jTextArea1.setBackground(Color.decode("#87CEFA"));
+        jTextArea1.setBackground(Color.decode("#CCCCCC"));
     }
     
     public void setfocus() {
